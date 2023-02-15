@@ -82,7 +82,7 @@ const Home = () => {
             {/* <!-- img --> */}
 
             <img
-              src="./img/img1.jpeg"
+              src="./img/profilepix.png"
               alt="img" 
               className="rounded-full h-[200px] w-[200px] md:h-[384px] md:w-[384px] flex justify-center mt-5 mb-5"
             />
